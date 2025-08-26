@@ -1,7 +1,11 @@
 # Snake-Game
 
 
-https://github.com/user-attachments/assets/4bb12da4-dc8d-465f-8938-67a418e3a593
+
+
+https://github.com/user-attachments/assets/784b9e8d-55c9-4a08-a18d-7582f463452a
+
+
 
 
 
