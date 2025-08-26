@@ -1,23 +1,14 @@
 # Snake-Game
 
-A terminal-based Snake game written in C++ using an object-oriented design (& termios for real time input). Control the snake to eat food, grow longer, and score points—while avoiding the walls and your own tail.  
-Created by **Satya Nihal Kodukula**.
 
-## Features
+https://github.com/user-attachments/assets/4bb12da4-dc8d-465f-8938-67a418e3a593
 
-- Object-oriented structure using `Snake` and `Game` classes
-- Real-time controls (WASD) without pressing Enter
-- Difficulty settings: Easy, Medium, Hard
-- Score tracking and tail growth on eating food
-- Game over screen with feedback based on performance
 
-## How It Works
 
-1. Enter your name and select a difficulty level.
-2. Control the snake using W (up), A (left), S (down), D (right).
-3. Eat the food (`*`) to grow and gain points.
-4. Avoid running into walls or your own tail (`o`).
-5. The game ends if you collide or press X to quit.
+## Key Idea
+- Object-oriented principles like abstraction, encapsulation and composition
+- POSIX
+- C++
 
 ## Requirements
 
@@ -27,6 +18,6 @@ Created by **Satya Nihal Kodukula**.
 ## Compile and Run
 
 ```bash
-g++ snake_game.cpp -o snake_game
-./snake_game
+g++ snake.cpp -o snake
+./snake
 ```
